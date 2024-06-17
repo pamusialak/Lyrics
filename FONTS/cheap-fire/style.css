@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'cheap-fire';
+  src: url('/path-to/cheap-fire.woff2') format('woff2'),
+       url('/path-to/cheap-fire.woff') format('woff'),
+       url('/path-to/cheap-fire.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'cheap-fire', sans-serif;
+}

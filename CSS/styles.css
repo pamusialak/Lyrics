@@ -1,0 +1,128 @@
+@font-face {
+    font-family: 'Cantarell';
+    src: url('Cantarell-Bold.woff2') format('woff2'),
+         url('Cantarell-Bold.woff') format('woff'),
+         url('Cantarell-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'cheap-fire';
+    src: url('/FONTS/cheap-fire/cheap-fire.woff2') format('woff2'),
+         url('/FONTS/cheap-fire/cheap-fire.woff') format('woff'),
+         url('/FONTS/cheap-fire/cheap-fire.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'SkinnyDrip';
+    src: url('/FONTS/skinny-drip-font/Skinnydrip-RJ83.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Karismas';
+    src: url('/FONTS/karisma-stencil/KARISMAS.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+    color: aliceblue;
+    line-height: 30px;
+    font-family:monospace;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    color:chocolate;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-size: 25px;
+    color:chocolate;
+    opacity: 0.5;
+}
+
+
+section {
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+section p{
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 5%;
+}
+
+
+.water {
+    font-family: 'SkinnyDrip', sans-serif;
+    font-size: 2em;
+}
+
+.run {
+    font-family:'Faster One', cursive;
+    font-size: 1em;
+}
+
+.love {
+    font-family: 'Karismas';
+    font-size: 1.5em;
+    color: #DC143C;
+}
+
+.fire{
+    font-family: 'cheap-fire', sans-serif;
+    font-size: 1.5em;
+}
+
+.freedom{
+    font-family: 'Cantarell', sans-serif;
+    font-style: oblique;
+    font-weight: 700;
+    letter-spacing: 8px;
+    font-size: 2em;
+    color: #DAA520;
+}
+
+.louder{
+    font-size: 1.5em;
+}
+
+.fast{
+    font-style: oblique;
+    word-spacing: -2px;
+}
+
+.fade{
+    opacity: 0.3;
+}
+
+.closer{
+    letter-spacing: -2px;
+    word-spacing: -2px;
+}
+
+video{
+    display:block;
+    margin:0 auto;
+    border-radius:25px;
+}
+
+.copyright{
+    text-align: center;
+    font-size: 15px;
+}
