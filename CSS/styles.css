@@ -1,29 +1,29 @@
 @font-face {
     font-family: 'Cantarell';
-    src: url('Cantarell-Bold.woff2') format('woff2'),
-         url('Cantarell-Bold.woff') format('woff'),
-         url('Cantarell-Bold.ttf') format('truetype');
+    src: url('Cantarell-Bold.woff2') format('woff2');
+    src: url('Cantarell-Bold.woff') format('woff');
+    src: url('Cantarell-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'cheap-fire';
-    src: url('FONTS/cheap-fire/cheap-fire.woff2') format('woff2'),
-         url('FONTS/cheap-fire/cheap-fire.woff') format('woff'),
-         url('FONTS/cheap-fire/cheap-fire.ttf') format('truetype');
+    src: url('../FONTS/cheap-fire/cheap-fire.woff2') format('woff2');
+    src: url('../FONTS/cheap-fire/cheap-fire.woff') format('woff');
+    src: url('../FONTS/cheap-fire/cheap-fire.ttf') format('truetype');
   }
 
   @font-face {
     font-family: 'SkinnyDrip';
-    src: url('FONTS/skinny-drip-font/Skinnydrip-RJ83.ttf') format('truetype');
+    src: url('../FONTS/skinny-drip-font/Skinnydrip-RJ83.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Karismas';
-    src: url('FONTS/karisma-stencil/KARISMAS.ttf') format('truetype');
+    src: url('../FONTS/karisma-stencil/KARISMAS.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
