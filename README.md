@@ -7,8 +7,9 @@
 Through the creative use of different fonts, sizes, and spacing, we aim to visually represent the layers of emotions embedded in the song's lyrics.
 
 ## Tools Used
-- **HTML**
-- **CSS**
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
 
 ## Contributors
 - **Pamela Alves Musialak**
